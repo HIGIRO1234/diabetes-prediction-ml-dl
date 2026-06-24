@@ -110,4 +110,3 @@ Future work may include:
 
 ## Author
 
-Loic Higiro
